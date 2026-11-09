@@ -1,0 +1,41 @@
+  (sar peste altceva - 0 imagini)
+  (sar peste bord - 0 imagini)
+  (sar peste detaliu - 0 imagini)
+Clase router (3): ['fata', 'motor', 'spate']
+  fata: 136
+  motor: 112
+  spate: 264
+  Split pe vehicul: 403 img / 334 vehicule antrenare | 109 img / 83 vehicule validare
+Split: 403 Antrenare | 109 Validare
+Incarcare resnet18
+Incepe antrenarea
+Epoch 1/30 | Loss: 0.6876 | Val Acc: 93.6%
+Epoch 2/30 | Loss: 0.4718 | Val Acc: 95.4%
+Epoch 3/30 | Loss: 0.4367 | Val Acc: 96.3%
+Epoch 4/30 | Loss: 0.4142 | Val Acc: 95.4%
+Epoch 5/30 | Loss: 0.4087 | Val Acc: 98.2%
+Epoch 6/30 | Loss: 0.3930 | Val Acc: 95.4%
+Epoch 7/30 | Loss: 0.3934 | Val Acc: 97.2%
+Epoch 8/30 | Loss: 0.3909 | Val Acc: 97.2%
+Epoch 9/30 | Loss: 0.3777 | Val Acc: 99.1%
+Epoch 10/30 | Loss: 0.3750 | Val Acc: 99.1%
+Epoch 11/30 | Loss: 0.3701 | Val Acc: 99.1%
+Epoch 12/30 | Loss: 0.3734 | Val Acc: 94.5%
+Epoch 13/30 | Loss: 0.3757 | Val Acc: 98.2%
+Epoch 14/30 | Loss: 0.3723 | Val Acc: 99.1%
+Epoch 15/30 | Loss: 0.3740 | Val Acc: 94.5%
+Epoch 16/30 | Loss: 0.3697 | Val Acc: 100.0%
+Epoch 17/30 | Loss: 0.3620 | Val Acc: 100.0%
+Epoch 18/30 | Loss: 0.3616 | Val Acc: 100.0%
+Epoch 19/30 | Loss: 0.3663 | Val Acc: 100.0%
+Epoch 20/30 | Loss: 0.3604 | Val Acc: 100.0%
+Epoch 21/30 | Loss: 0.3654 | Val Acc: 99.1%
+Epoch 22/30 | Loss: 0.3635 | Val Acc: 100.0%
+Epoch 23/30 | Loss: 0.3650 | Val Acc: 100.0%
+Epoch 24/30 | Loss: 0.3623 | Val Acc: 100.0%
+Epoch 25/30 | Loss: 0.3620 | Val Acc: 100.0%
+Epoch 26/30 | Loss: 0.3652 | Val Acc: 100.0%
+Epoch 27/30 | Loss: 0.3659 | Val Acc: 100.0%
+Epoch 28/30 | Loss: 0.3640 | Val Acc: 100.0%
+Epoch 29/30 | Loss: 0.3606 | Val Acc: 100.0%
+Epoch 30/30 | Loss: 0.3682 | Val Acc: 100.0%

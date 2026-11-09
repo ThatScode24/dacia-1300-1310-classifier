@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Dataset (not redistributed, see train/README.md)
+train/*
+!train/README.md
+
+# Local / generated
+app/config.json
+results/groups_proposed.txt
+results/groups_review.html
+results/*.log
+
+# LaTeX build artifacts
+thesis/*.aux
+thesis/*.bbl
+thesis/*.bcf
+thesis/*.blg
+thesis/*.fdb_latexmk
+thesis/*.fls
+thesis/*.log
+thesis/*.out
+thesis/*.run.xml
+thesis/*.synctex.gz
+thesis/*.toc
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

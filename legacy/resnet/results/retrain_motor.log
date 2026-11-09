@@ -1,0 +1,25 @@
+  Split pe vehicul: 86 img / 78 vehicule antrenare | 26 img / 19 vehicule validare
+Data Split: 86 Antrenare | 26 Validare
+Incarcare ResNet18
+Start antrenare
+Epoch 1/30 | Loss: 0.6661 | Val Acc: 65.4%
+Epoch 2/30 | Loss: 0.4756 | Val Acc: 73.1%
+Epoch 3/30 | Loss: 0.3648 | Val Acc: 73.1%
+Epoch 4/30 | Loss: 0.2910 | Val Acc: 73.1%
+Epoch 5/30 | Loss: 0.2834 | Val Acc: 76.9%
+Epoch 6/30 | Loss: 0.2650 | Val Acc: 73.1%
+Epoch 7/30 | Loss: 0.2674 | Val Acc: 76.9%
+Epoch 8/30 | Loss: 0.2883 | Val Acc: 76.9%
+Epoch 9/30 | Loss: 0.2641 | Val Acc: 73.1%
+Epoch 10/30 | Loss: 0.2549 | Val Acc: 76.9%
+Epoch 11/30 | Loss: 0.3028 | Val Acc: 76.9%
+Epoch 12/30 | Loss: 0.2378 | Val Acc: 73.1%
+Epoch 13/30 | Loss: 0.2566 | Val Acc: 76.9%
+Epoch 14/30 | Loss: 0.2535 | Val Acc: 76.9%
+Epoch 15/30 | Loss: 0.2475 | Val Acc: 76.9%
+Epoch 16/30 | Loss: 0.2496 | Val Acc: 76.9%
+Epoch 17/30 | Loss: 0.2449 | Val Acc: 76.9%
+Epoch 18/30 | Loss: 0.2678 | Val Acc: 76.9%
+Epoch 19/30 | Loss: 0.2543 | Val Acc: 76.9%
+Epoch 20/30 | Loss: 0.2518 | Val Acc: 76.9%
+Early stopping la epoca 20: 15 epoci fara imbunatatire (best 76.9%)

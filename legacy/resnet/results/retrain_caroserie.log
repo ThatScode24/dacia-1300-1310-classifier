@@ -1,0 +1,65 @@
+Date: 130 Berlina vs 134 Break
+  Split pe vehicul: 213 img / 176 vehicule antrenare | 51 img / 44 vehicule validare
+Split: 213 Antrenare | 51 Validare
+Incarcare resnet18
+Incepe antrenarea
+Epoch 1/60 | Loss: 0.6917 | Val Acc: 62.7%
+Epoch 2/60 | Loss: 0.5526 | Val Acc: 60.8%
+Epoch 3/60 | Loss: 0.5276 | Val Acc: 76.5%
+Epoch 4/60 | Loss: 0.4833 | Val Acc: 78.4%
+Epoch 5/60 | Loss: 0.4404 | Val Acc: 74.5%
+Epoch 6/60 | Loss: 0.4359 | Val Acc: 78.4%
+Epoch 7/60 | Loss: 0.4151 | Val Acc: 78.4%
+Epoch 8/60 | Loss: 0.3834 | Val Acc: 76.5%
+Epoch 9/60 | Loss: 0.3954 | Val Acc: 70.6%
+Epoch 10/60 | Loss: 0.3733 | Val Acc: 84.3%
+Epoch 11/60 | Loss: 0.3938 | Val Acc: 78.4%
+Epoch 12/60 | Loss: 0.3572 | Val Acc: 82.4%
+Epoch 13/60 | Loss: 0.3585 | Val Acc: 84.3%
+Epoch 14/60 | Loss: 0.3538 | Val Acc: 84.3%
+Epoch 15/60 | Loss: 0.3452 | Val Acc: 84.3%
+Epoch 16/60 | Loss: 0.3423 | Val Acc: 84.3%
+Epoch 17/60 | Loss: 0.3348 | Val Acc: 84.3%
+Epoch 18/60 | Loss: 0.3337 | Val Acc: 84.3%
+Epoch 19/60 | Loss: 0.3568 | Val Acc: 86.3%
+Epoch 20/60 | Loss: 0.3311 | Val Acc: 86.3%
+Epoch 21/60 | Loss: 0.3208 | Val Acc: 84.3%
+Epoch 22/60 | Loss: 0.3145 | Val Acc: 86.3%
+Epoch 23/60 | Loss: 0.3138 | Val Acc: 88.2%
+Epoch 24/60 | Loss: 0.3275 | Val Acc: 88.2%
+Epoch 25/60 | Loss: 0.3242 | Val Acc: 88.2%
+Epoch 26/60 | Loss: 0.3065 | Val Acc: 90.2%
+Epoch 27/60 | Loss: 0.3073 | Val Acc: 86.3%
+Epoch 28/60 | Loss: 0.3152 | Val Acc: 88.2%
+Epoch 29/60 | Loss: 0.3112 | Val Acc: 88.2%
+Epoch 30/60 | Loss: 0.3134 | Val Acc: 88.2%
+Epoch 31/60 | Loss: 0.3149 | Val Acc: 90.2%
+Epoch 32/60 | Loss: 0.3148 | Val Acc: 84.3%
+Epoch 33/60 | Loss: 0.2867 | Val Acc: 84.3%
+Epoch 34/60 | Loss: 0.2903 | Val Acc: 88.2%
+Epoch 35/60 | Loss: 0.3048 | Val Acc: 88.2%
+Epoch 36/60 | Loss: 0.2790 | Val Acc: 88.2%
+Epoch 37/60 | Loss: 0.2803 | Val Acc: 88.2%
+Epoch 38/60 | Loss: 0.2895 | Val Acc: 88.2%
+Epoch 39/60 | Loss: 0.2871 | Val Acc: 88.2%
+Epoch 40/60 | Loss: 0.2790 | Val Acc: 88.2%
+Epoch 41/60 | Loss: 0.2871 | Val Acc: 88.2%
+Epoch 42/60 | Loss: 0.2941 | Val Acc: 88.2%
+Epoch 43/60 | Loss: 0.2934 | Val Acc: 88.2%
+Epoch 44/60 | Loss: 0.2817 | Val Acc: 88.2%
+Epoch 45/60 | Loss: 0.3024 | Val Acc: 88.2%
+Epoch 46/60 | Loss: 0.2759 | Val Acc: 88.2%
+Epoch 47/60 | Loss: 0.2761 | Val Acc: 88.2%
+Epoch 48/60 | Loss: 0.2914 | Val Acc: 88.2%
+Epoch 49/60 | Loss: 0.2760 | Val Acc: 88.2%
+Epoch 50/60 | Loss: 0.2808 | Val Acc: 88.2%
+Epoch 51/60 | Loss: 0.2767 | Val Acc: 88.2%
+Epoch 52/60 | Loss: 0.2703 | Val Acc: 88.2%
+Epoch 53/60 | Loss: 0.2839 | Val Acc: 88.2%
+Epoch 54/60 | Loss: 0.2774 | Val Acc: 88.2%
+Epoch 55/60 | Loss: 0.2808 | Val Acc: 88.2%
+Epoch 56/60 | Loss: 0.2823 | Val Acc: 88.2%
+Epoch 57/60 | Loss: 0.2651 | Val Acc: 88.2%
+Epoch 58/60 | Loss: 0.2752 | Val Acc: 88.2%
+Epoch 59/60 | Loss: 0.2955 | Val Acc: 88.2%
+Epoch 60/60 | Loss: 0.2918 | Val Acc: 88.2%

@@ -1,0 +1,51 @@
+== router ==
+Clase: ['fata', 'motor', 'spate']
+Imagini: 512 | Split: StratifiedGroupKFold pe 417 vehicule
+Acuratete CV (5 folduri): 98.9% +/- 0.7%
+Per fold: 98.9%, 100.0%, 98.1%, 99.0%, 98.3%
+Matrice de confuzie agregata (rand = clasa reala):
+                    fata       motor       spate
+        fata         136           0           0
+       motor           0         112           0
+       spate           6           0         258
+  recall fata: 100.0% (136/136)
+  recall motor: 100.0% (112/112)
+  recall spate: 97.7% (258/264)
+
+== caroserie ==
+Clase: ['berlina', 'break']
+Imagini: 264 | Split: StratifiedGroupKFold pe 220 vehicule
+Acuratete CV (5 folduri): 91.6% +/- 2.9%
+Per fold: 94.1%, 89.1%, 94.9%, 92.7%, 87.3%
+Matrice de confuzie agregata (rand = clasa reala):
+                 berlina       break
+     berlina         120          10
+       break          13         121
+  recall berlina: 92.3% (120/130)
+  recall break: 90.3% (121/134)
+
+== model ==
+Clase: ['1300', 'cn3', 'cn4']
+Imagini: 136 | Split: StratifiedGroupKFold pe 100 vehicule
+Acuratete CV (5 folduri): 96.7% +/- 3.3%
+Per fold: 100.0%, 90.9%, 96.2%, 100.0%, 96.7%
+Matrice de confuzie agregata (rand = clasa reala):
+                    1300         cn3         cn4
+        1300          44           0           0
+         cn3           1          43           1
+         cn4           0           2          45
+  recall 1300: 100.0% (44/44)
+  recall cn3: 95.6% (43/45)
+  recall cn4: 95.7% (45/47)
+
+== motor ==
+Clase: ['carburatie', 'injectie']
+Imagini: 112 | Split: StratifiedGroupKFold pe 97 vehicule
+Acuratete CV (5 folduri): 93.6% +/- 10.5%
+Per fold: 73.1%, 100.0%, 95.0%, 100.0%, 100.0%
+Matrice de confuzie agregata (rand = clasa reala):
+              carburatie    injectie
+  carburatie          46           0
+    injectie           8          58
+  recall carburatie: 100.0% (46/46)
+  recall injectie: 87.9% (58/66)
